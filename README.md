@@ -57,4 +57,4 @@ The application's configuration can be found in `application.properties`. You ca
 
 ---
 
-Please replace `your_password`, `your_database_name`, and `YourGitHubUsername` with the appropriate values in the README file. Also, add any additional details or instructions specific to your application if needed.
+
